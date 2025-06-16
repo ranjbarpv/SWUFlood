@@ -1,4 +1,3 @@
 # SWUFlood
 Flood-Affected Area Segmentation in UAV Images: 
-
-///Code will be available soon///
+The source code for the models in this study will be available after acceptance in .......
