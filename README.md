@@ -1,3 +1,5 @@
+****📌 The code for this paper will be added to this repository soon.****
+
 **SWUFlood: Segmentation of flood-affected regions in UAV imagery using an enhanced hybrid approach integrating shifted window transformers with U-net**.
 
 
