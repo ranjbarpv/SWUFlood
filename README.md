@@ -25,17 +25,4 @@ Flooding represents a catastrophic natural disaster, resulting in significant hu
 
 **Citation**
 
-
-
-@article{RANJBAR2026102018,
-title = {SWUFlood: Segmentation of flood-affected regions in UAV imagery using an enhanced hybrid approach integrating shifted window transformers with U-net},
-journal = {Remote Sensing Applications: Society and Environment},
-volume = {42},
-pages = {102018},
-year = {2026},
-issn = {2352-9385},
-doi = {https://doi.org/10.1016/j.rsase.2026.102018},
-url = {https://www.sciencedirect.com/science/article/pii/S2352938526001515},
-author = {Jabraeil Ranjbar and Hossein Ebrahimnezhad and Mohammad Hossein Sedaaghi},
-keywords = {Flood-affected area segmentation, UAV images, Image segmentation, Shifted window transformers, SWUFlood},
-}
+Jabraeil Ranjbar, Hossein Ebrahimnezhad, Mohammad Hossein Sedaaghi, SWUFlood: Segmentation of flood-affected regions in UAV imagery using an enhanced hybrid approach integrating shifted window transformers with U-net, Remote Sensing Applications: Society and Environment, Volume 42, 2026, 102018, ISSN 2352-9385, https://doi.org/10.1016/j.rsase.2026.102018.
