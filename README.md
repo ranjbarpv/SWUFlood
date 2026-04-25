@@ -5,11 +5,17 @@ Jabraeil Ranjbar, Hossein Ebrahimnezhad, Mohammad Hossein Sedaaghi
 Computer Vision Res. Lab., Electrical and Computer Engineering Faculty, Tabriz (Sahand) University of Technology, Tabriz, Iran
 
 **Highlights**
+
 •A novel hybrid model enhances the accuracy of flood area segmentation.
+
 •Combining U-Net with shifted window transformers improves feature and context learning.
+
 •The findings help emergency teams assess flood damage and allocate resources.
+
 •The model is applicable to agriculture, urban planning, and environment tasks.
+
 •This study encourages future work on hybrid deep models in remote sensing.
+
 
 
 **Citation**
