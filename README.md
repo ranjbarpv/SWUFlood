@@ -1,6 +1,8 @@
-**# SWUFlood**
-**SWUFlood: Segmentation of flood-affected regions in UAV imagery using an enhanced hybrid approach integrating shifted window transformers with U-net***
+**SWUFlood: Segmentation of flood-affected regions in UAV imagery using an enhanced hybrid approach integrating shifted window transformers with U-net**.
 
+
+Jabraeil Ranjbar, Hossein Ebrahimnezhad, Mohammad Hossein Sedaaghi
+Computer Vision Res. Lab., Electrical and Computer Engineering Faculty, Tabriz (Sahand) University of Technology, Tabriz, Iran
 
 **Highlights**
 •A novel hybrid model enhances the accuracy of flood area segmentation.
