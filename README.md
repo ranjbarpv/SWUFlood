@@ -1,7 +1,6 @@
 **# SWUFlood**
 **SWUFlood: Segmentation of flood-affected regions in UAV imagery using an enhanced hybrid approach integrating shifted window transformers with U-net***
-Remote Sensing Applications: Society and Environment
-Cite: Jabraeil Ranjbar, Hossein Ebrahimnezhad, Mohammad Hossein Sedaaghi, SWUFlood: Segmentation of flood-affected regions in UAV imagery using an enhanced hybrid approach integrating shifted window transformers with U-net, Remote Sensing Applications: Society and Environment, Volume 42, 2026, 102018, ISSN 2352-9385, https://doi.org/10.1016/j.rsase.2026.102018.
+
 
 **Highlights**
 •A novel hybrid model enhances the accuracy of flood area segmentation.
@@ -12,6 +11,9 @@ Cite: Jabraeil Ranjbar, Hossein Ebrahimnezhad, Mohammad Hossein Sedaaghi, SWUFlo
 
 
 **Citation**
+
+
+
 @article{RANJBAR2026102018,
 title = {SWUFlood: Segmentation of flood-affected regions in UAV imagery using an enhanced hybrid approach integrating shifted window transformers with U-net},
 journal = {Remote Sensing Applications: Society and Environment},
